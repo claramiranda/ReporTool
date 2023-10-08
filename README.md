@@ -4,8 +4,8 @@ a simple report tool
 Uma ferramenta simples para reportar seus amigos.
 
 Back-End 
-  - Python
-    - Flask
+  - Java
+    - Spring
 
 Database
   - MongoDB
